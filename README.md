@@ -1,4 +1,7 @@
-# calculator
+# 1st day Vue Projects
+
+## Calculator App
+* Deployed in: https://inspiring-johnson-342b17.netlify.app
 
 ## Project setup
 ```
@@ -9,11 +12,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
